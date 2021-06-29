@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.dansaka.ascustomtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.dansaka.ascustomtemplate.MyBundle
 
 class MyApplicationService {
 
